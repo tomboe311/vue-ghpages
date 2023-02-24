@@ -1,0 +1,20 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+  background-color: #366164 !important;
+  margin-bottom: 45px;
+}
+.btn-success, .btn-primary {
+  background-color: #16a085;
+  border-color: #16a085;
+}
+.btn-success:hover, .btn-primary:hover {
+  background-color: #48c9b0;
+  border-color: #48c9b0 ;
+}
+.btn-success:disabled, .btn-primary:disabled {
+  background-color: #48c9b0;
+  border-color: #48c9b0 ;
+}
